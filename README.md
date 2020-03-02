@@ -33,7 +33,27 @@ Don't die by perfection, iterate the suboptimal to become a good solution, never
 
 Evolution works with with trial/error, without any intelligence driving the whole process. The result is a big mayority of deadly changes (the evolution subject to perform worst and perish) and successfull ones that improve the performing of the next generations.
 
-No human group is perfect and it is in constant iteration: Families, guilds, orchestras or armies, make changes to trial/test better ways of perform better in their targets.
+No human group is perfect and it is in constant iteration: Families, guilds, orchestras or armies, make changes to trial/test better ways to perform better.
+
+## Specialization
+
+Especialization make species, groups and idividuals to be successful in nature.
+Woman and Men has evidences on the specialization in their bodies and brains, we splitted the work in the past to success to raise our children.
+
+> Every moment an agent (group or individual) spends on its non specialized work is a waste of time/money. 
+
+In our society the **Orchestra** group is the best example of this specialization:
+* The orchestra specialize in performing one type of music, usually classic
+* The subgroups are specialized in instruments families as strings, brass, percussion and keyboards.
+* The musicians are specialized in their position, the concertmaster is the first violin section inside strings.
+
+Promoting specialization is improving the performance of a group: a piano player should never touch a guitar, even shouldn't waste time tuning the piano, we want the best at every role we can.
+
+> We can have the best possible Orchestra made by a group of one-man band. 
+
+
+
+
 
 
 
