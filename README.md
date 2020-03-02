@@ -1,6 +1,8 @@
 # evolutionary-work-group
 My idea of a more natural way of organising work groups
 
+> Agent means here: individual or sub-group inside a group.
+
 Environment select groups succeeding doing a task:
 * Organisms are Multi celular cells synchronizing themselves to survive.
 * A pack of wolves hunt together better than alone.
@@ -47,15 +49,14 @@ In our society the **Orchestra** group is the best example of this specializatio
 * The subgroups are specialized in instruments families as strings, brass, percussion and keyboards.
 * The musicians are specialized in their position, the concertmaster is the first violin section inside strings.
 
-Promoting specialization is improving the performance of a group: a piano player should never touch a guitar, even shouldn't waste time tuning the piano, we want the best at every role we can.
+Promoting specialization is improving the performance of a group: a piano player should never touch a guitar, even shouldn't waste time tuning the piano, or meetings deciding the difficulty of a the string section to perform something, we want the best at every role we can.
 
-> We can have the best possible Orchestra made by a group of one-man band. 
+> We can't have the best possible Orchestra made by a group of one-man band. 
 
+## Cohesion (promote competition with rewards, army, sports)
+## Mentoring (Guild: teach to do something, avoid abstraction)
+## Targets alignments (agents and group need to have their target aligned, career, profit, clear path)
+## Single line of comunication, to many channels = no channel.
 
-
-
-
-
-
-
-
+Meetings are evil, try to avoid by delegating in the involved agents and using hierarchy.
+Army: The information is splitted to perform a very specialized task
