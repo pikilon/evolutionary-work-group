@@ -13,10 +13,9 @@ This workflow will try to find solutions based on successful human groups:
 
 Let's take what this groups have in common to find out the tools to build the best working group
 
-
 ## Hierarchies
 
-The fair way is not always the quickest way, a father has to accept to punish their children when they misbehave risking himself to be on fair on one or all of them.
+The fair way is not always the quickest way, a father has to accept to punish their children when they misbehave risking  to be unfair on one or all of them: "You are the three grounded, so you all learn next time to organize yourself"
 
 The best example is the army, where a group of people has a very strict hierarchy in order to take quick choices to beat other armies. It could be more fair that soliders vote how/what/who to implement a target, but when they come to an agreement they could be overpowered by another army with a strong (and unfair) hierarchy.
 
@@ -24,7 +23,7 @@ Hierarchies has a lot to do with the nexts common points
 
 ## Quickness over perfection
 
-*A quick suboptimal choice is better than a late optimal one*, don't die by perfection, iterate the suboptimal.
+*A quick suboptimal choice is better than a late optimal one*, don't die by perfection, iterate the suboptimal to become a good solution, never settle but accept the perfection doesn't exists.
 
 Evolution works with with trial/error, without any intelligence driving the whole process. The result is a big mayority of deadly changes (the evolution subject to perform worst and perish) and successfull ones that improve the performing of the next generations.
 
