@@ -42,16 +42,19 @@ No human group is perfect and it is in constant iteration: Families, guilds, orc
 Especialization make species, groups and idividuals to be successful in nature.
 Woman and Men has evidences on the specialization in their bodies and brains, we splitted the work in the past to success to raise our children.
 
-> Every moment an agent (group or individual) spends on its non specialized work is a waste of time/money. 
+> Every moment an agent (group or individual) spends on its non specialized work is a waste of time/money. The worker like the job he was hired for: drift away and you will be generating frustration.
 
 In our society the **Orchestra** group is the best example of this specialization:
 * The orchestra specialize in performing one type of music, usually classic
 * The subgroups are specialized in instruments families as strings, brass, percussion and keyboards.
 * The musicians are specialized in their position, the concertmaster is the first violin section inside strings.
 
-Promoting specialization is improving the performance of a group: a piano player should never touch a guitar, even shouldn't waste time tuning the piano, or meetings deciding the difficulty of a the string section to perform something, we want the best at every role we can.
+Promoting specialization is improving the performance of a group: a piano player should never touch a guitar, even shouldn't waste time tuning the piano, or meetings evaluating the difficulty of a the string section to perform something, we want the best at every role we can.
 
 > We can't have the best possible Orchestra made by a group of one-man band. 
+
+To boost specialization use *work splitting*, by creating/hiring new agents, EG: Orchestra director, piano tunner, etc.
+
 
 ## Cohesion (promote competition with rewards, army, sports)
 ## Mentoring (Guild: teach to do something, avoid abstraction)
