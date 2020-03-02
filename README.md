@@ -20,6 +20,7 @@ The fair way is not always the quickest way, a father has to accept to punish th
 The best example is the army, where a group of people has a very strict hierarchy in order to take quick choices to beat other armies. It could be more fair that soliders vote how/what/who to implement a target, but when they come to an agreement they could be overpowered by another army with a strong (and unfair) hierarchy.
 
 > Position in the hierarchies could not be related with rewards (salary)
+
 A sport coach is higher in the hierchy than a star player, but the start player could earn 10x the salary of the coach. The rewards are related with other things, no _necesarily_ with hierarchies.
 
 Hierarchies has a lot to do with the nexts common points
